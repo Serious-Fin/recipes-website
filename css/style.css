@@ -9,8 +9,21 @@ img {
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
+    margin-bottom: 50px;
 }
 
 hr {
     width: 50%;
+}
+
+p {
+    margin: 35px 10%;
+}
+
+ol, ul {
+    margin-left: 10%;
+}
+
+li {
+    margin: 5px 0px;
 }
